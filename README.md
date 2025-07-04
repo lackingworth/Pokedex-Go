@@ -6,7 +6,7 @@
 ## Info
  Pokedex in a command-line [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop). 
  It makes use of [PokéAPI](https://pokeapi.co/) to fetch all of the data about Pokémons.
- A Pokedex is just a make-believe device that lets you look up information about Pokemon - things like their name, type, and stats.
+ A Pokedex is just a make-believe device that lets you look up information about Pokémons - things like their name, type, and stats.
 
 ## Available commands
 * ```help``` - Displays all available commands in CLI
