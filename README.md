@@ -1,7 +1,11 @@
 ## Installing
+### Linux
 * You must have [Go v1.24.3](https://go.dev/doc/install) (or higher) installed on your system
 * Clone this repo to your desired location
 * Run ```go build``` and ```go run .``` on your local machine in clonde repository
+### Windows
+* You can repeat the linux steps, it will work just fine
+* Or alternatively you can [download an executable from release page](https://github.com/lackingworth/Pokedex-Go/releases)
 
 ## Info
  Pokedex in a command-line [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop). 
